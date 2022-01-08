@@ -1,3 +1,6 @@
+# Data Modeling with Cassandra
+Udacity Project 2 of 6
+
 # Sparkify Cassandra Database
 
 An Apache Cassandra database sparkify for a music app, Sparkify. The purpose of the NoSQL database is to answer queries on song play data. 
